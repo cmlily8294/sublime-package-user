@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"debug": false,
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"AutoPEP8",
+		"Vintage"
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS","node_modules"],
+}
