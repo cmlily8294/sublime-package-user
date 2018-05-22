@@ -9,13 +9,14 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_size": 15,
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"AutoPEP8",
 		"Vintage"
 	],
 	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }

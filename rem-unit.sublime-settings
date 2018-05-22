@@ -1,0 +1,6 @@
+{
+    "fontsize": 40,
+    "precision": 8,
+    "leadingzero": false,
+    "exts": [".css", ".scss", ".less", ".sass", ".styl"]
+}

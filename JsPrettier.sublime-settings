@@ -1,0 +1,8 @@
+{
+    "auto_format_on_save": false,
+    "prettier_options": {
+        "printWidth": 85,
+        // If true, will use single instead of double quotes
+        "singleQuote": true,
+    }
+}
